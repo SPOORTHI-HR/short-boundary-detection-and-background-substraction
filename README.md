@@ -81,3 +81,11 @@ Your code for boundary detection and background subtraction looks solid! Here's 
     - This releases the video capture and destroys all OpenCV windows.
 
 This code should work well for detecting boundaries and performing background subtraction in a video stream. 
+
+
+**Acknowledgments**
+
+I am grateful for the guidance and support provided by Dr.https://github.com/Victor-Ikechukwu/Victor-Ikechukwu
+
+
+
